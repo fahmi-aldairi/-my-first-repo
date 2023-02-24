@@ -1,6 +1,6 @@
 # my-first-repo
 ### Fahmi Aldairi
-![My_Photo](IMG_20230131_061654.jpg)
+![My_Photo](IMG_20230131_061654.jpg)  
 Fahmi Aldairi I recently graduated from HU university with a major of civil engineering as well as 23 years old.  
 I joined this course to take the challenge and be part of the developer society which is my childhood dream.  
 I am very good at encountering problems and finding ways to solve them.  
